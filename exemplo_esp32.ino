@@ -4,7 +4,7 @@
 
 // ===== CONFIG WIFI + MQTT =====
 const char* ssid = "LabSEA-2.4GHz";
-const char* password = "@procurando534";
+const char* password = "senha";
 const char* mqtt_server = "10.10.2.211"; // broker
 const int mqtt_port = 30001;
 const char* mqtt_user = "guest";
