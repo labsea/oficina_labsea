@@ -1,4 +1,4 @@
-# [🤖] Oficina de Integração em Robótica no LabSEA
+# 🤖 Oficina de Integração em Robótica no LabSEA
 
 *_"Exemplo prático de comunicação entre Python (no espaço inteligente LabSEA) e ESP32 via MQTT, para a Oficina de Integração em Robótica."_*
 
