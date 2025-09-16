@@ -46,6 +46,7 @@ O fluxo de dados envolve:
 Instale as dependências:
 ```bash
 pip install pynput is-wire
+```
 
 ### ESP32
 Instale as dependências e configure:
