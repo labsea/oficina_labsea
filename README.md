@@ -73,7 +73,7 @@ projeto_labsea_mqtt/
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/labsea/oficina_labsea
 cd projeto_labsea_mqtt
 ```
 
