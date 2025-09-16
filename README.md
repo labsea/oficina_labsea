@@ -52,13 +52,13 @@ pip install pynput is-wire
 Instale as dependências e configure:
 - Biblioteca PubSubClient
 - Biblioteca WiFi.h (já inclusa na ESP32)
+- Biblioteca ESP32Servo.h
 - Credenciais da rede Wi-Fi do LabSEA
 - Endereço do broker MQTT (RabbitMQ)
 
 ---
 
 ## 📂 Estrutura de diretórios esperada
-[Descreva a estrutura de diretórios necessária para que o código realize a leitura ou o uso de outros arquivos para suas funcionalidades.]
 
 ```
 projeto_labsea_mqtt/
